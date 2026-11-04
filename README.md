@@ -45,7 +45,6 @@
       <p>Estou concluindo o <b>Ensino Médio</b> e o curso <b>Técnico em Informática</b> (2026). Minha jornada passa por desenvolvimento web, aplicações mobile, bancos de dados e inteligência artificial.</p>
       <p>🎯 <b>Foco:</b> Full-stack, Front-end, Mobile e Cibersegurança.</p>
       <p>🚀 <b>Agora:</b> aprimorando projetos e buscando oportunidades de estágio ou jovem aprendiz em TI.</p>
-      <p>🎮 <b>Fora do código:</b> criatividade, tecnologia e universos como <i>Naruto</i>, <i>Jujutsu Kaisen</i> e <i>Kimetsu no Yaiba</i>.</p>
     </td>
     <td width="35%" valign="middle" align="center">
       <a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-CkzASXWphfkQ5CF6ny" title="Gojo Satoru — Jujutsu Kaisen (GIF publicado pela Xbox no GIPHY)">
