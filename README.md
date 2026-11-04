@@ -1,15 +1,17 @@
 <!--
   MATHEUS RIQUELME // GITHUB PROFILE
-  Identidade visual: SHINOBI SYSTEM / Bordeaux & Champagne
+  Identidade visual: RIQUELME / Bordeaux & Champagne
   GitHub: https://github.com/Riquelmedkzy
   Este arquivo utiliza somente recursos renderizados pelo GitHub.
 -->
 
 <div align="center">
 
-  <img width="100%" alt="Banner Matheus Riquelme - Shinobi System" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0B13,35:241324,70:642A4C,100:C18A77&amp;height=235&amp;section=header&amp;text=MATHEUS%20RIQUELME&amp;fontSize=45&amp;fontColor=FFF7ED&amp;fontAlignY=37&amp;desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20BUILDER&amp;descSize=15&amp;descAlignY=56&amp;animation=fadeIn" />
+  <img width="100%" alt="Banner do portfólio de Matheus Riquelme" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0B13,35:241324,70:642A4C,100:C18A77&amp;height=235&amp;section=header&amp;text=MATHEUS%20RIQUELME&amp;fontSize=45&amp;fontColor=FFF7ED&amp;fontAlignY=37&amp;desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20BUILDER&amp;descSize=15&amp;descAlignY=56&amp;animation=fadeIn" />
 
-  <img alt="Indicador de status online" src="https://img.shields.io/badge/SHINOBI__OS-SYSTEM%20ONLINE-28B485?style=for-the-badge&amp;labelColor=14111B" />
+  <a href="https://matheus-riquelme-web.vercel.app/">
+    <img alt="Visitar meu site matheus-riquelme-web.vercel.app" src="https://img.shields.io/badge/MEU%20SITE-MATHEUS--RIQUELME--WEB.VERCEL.APP-28B485?style=for-the-badge&amp;labelColor=14111B&amp;logo=vercel&amp;logoColor=white" />
+  </a>
   <img alt="Localização no Rio de Janeiro" src="https://img.shields.io/badge/LOCATION-RIO%20DE%20JANEIRO-C18A77?style=for-the-badge&amp;labelColor=14111B" />
   <img alt="Disponível para oportunidades em TI" src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-B96791?style=for-the-badge&amp;labelColor=14111B" />
 
@@ -19,7 +21,7 @@
     <img alt="Animação de inicialização do sistema com mensagens de boas-vindas" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2200&amp;pause=850&amp;color=E7BD89&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=680&amp;height=45&amp;lines=%5BBOOT%5D+Loading+developer+profile...;%5B+OK+%5D+Initializing+creative+modules...;%5B+OK+%5D+PHP+%7C+Python+%7C+JavaScript+%7C+React+Native;%5BACCESS+GRANTED%5D+Welcome+to+my+universe." />
   </a>
 
-  <sub><code>root@riquelme:~$ ./launch --mode=creative --rank=shinobi</code></sub>
+  <sub><code>riquelme@portfolio:~$ ./launch --mode=creative --site=online</code></sub>
 
   <br /><br />
 
@@ -45,6 +47,7 @@
       <p>Estou concluindo o <b>Ensino Médio</b> e o curso <b>Técnico em Informática</b> (2026). Minha jornada passa por desenvolvimento web, aplicações mobile, bancos de dados e inteligência artificial.</p>
       <p>🎯 <b>Foco:</b> Full-stack, Front-end, Mobile e Cibersegurança.</p>
       <p>🚀 <b>Agora:</b> aprimorando projetos e buscando oportunidades de estágio ou jovem aprendiz em TI.</p>
+      <p>🌐 <b>Meu site:</b> <a href="https://matheus-riquelme-web.vercel.app/">matheus-riquelme-web.vercel.app</a></p>
     </td>
     <td width="35%" valign="middle" align="center">
       <a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-CkzASXWphfkQ5CF6ny" title="Gojo Satoru — Jujutsu Kaisen (GIF publicado pela Xbox no GIPHY)">
@@ -56,7 +59,7 @@
   </tr>
 </table>
 
-> **Minha filosofia:** consistência de shinobi, atenção aos detalhes e vontade de evoluir a cada commit.
+> **Minha filosofia:** disciplina, atenção aos detalhes e vontade de evoluir a cada commit.
 
 <a id="tech-stack"></a>
 
@@ -115,7 +118,7 @@
       <h3>✦ Portfólio pessoal</h3>
       <p>Minha vitrine de projetos, com identidade visual premium, animações e foco em experiência do usuário.</p>
       <p><img alt="PHP" src="https://img.shields.io/badge/PHP-6B4F8B?style=flat-square&amp;logo=php&amp;logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-191724?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-264DE4?style=flat-square&amp;logo=css&amp;logoColor=white" /></p>
-      <a href="https://github.com/Riquelmedkzy/Portfolio-pessoal"><b>Ver repositório ↗</b></a>
+      <a href="https://matheus-riquelme-web.vercel.app/"><b>Visitar site ↗</b></a> · <a href="https://github.com/Riquelmedkzy/Portfolio-pessoal"><b>Ver código ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>✦ ListaTarefas</h3>
@@ -149,7 +152,7 @@
 ## `05 /` Objetivos atuais
 
 ```bash
-riquelme@shinobi-os:~/roadmap$ ./mission-control --current
+riquelme@portfolio:~/roadmap$ ./mission-control --current
 
 [✓] Desenvolver projetos web e mobile completos
 [~] Evoluir o ListaTarefas rumo à versão 3.0
@@ -167,8 +170,8 @@ NEXT CHECKPOINT: KEEP BUILDING
 
 <div align="center">
 
-  <img width="49%" alt="Estatísticas do GitHub de Matheus Riquelme" src="https://github-readme-stats.vercel.app/api?username=Riquelmedkzy&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=E7BD89&amp;text_color=EDE3E9&amp;icon_color=BA668F&amp;ring_color=C18A77" />
-  <img width="49%" alt="Linguagens mais presentes nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelmedkzy&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=E7BD89&amp;text_color=EDE3E9" />
+  <img width="49%" alt="Estatísticas do GitHub de Matheus Riquelme" src="./profile/stats.svg" />
+  <img width="49%" alt="Linguagens mais presentes nos repositórios públicos" src="./profile/top-langs.svg" />
 
   <br />
 
@@ -179,13 +182,16 @@ NEXT CHECKPOINT: KEEP BUILDING
 <h3 align="center">Activity Graph · Linha do tempo</h3>
 
 <div align="center">
-  <img width="100%" alt="Gráfico de atividade do GitHub nos últimos dias" src="https://github-readme-activity-graph.vercel.app/graph?username=Riquelmedkzy&amp;bg_color=0D1117&amp;color=E7BD89&amp;line=BA668F&amp;point=FFF1DE&amp;area_color=632C4B&amp;area=true&amp;hide_border=true&amp;radius=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/momentum.dark.svg" />
+    <img width="100%" alt="Evolução das contribuições do GitHub ao longo do tempo" src="./profile/momentum.light.svg" />
+  </picture>
 </div>
 
 <h3 align="center">Achievements · Troféus</h3>
 
 <div align="center">
-  <img width="98%" alt="Troféus dinâmicos do perfil GitHub" src="https://github-profile-trophy-kannan.vercel.app/?username=Riquelmedkzy&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=4" />
+  <img width="98%" alt="Troféus do GitHub, atualizados pelo próprio repositório" src="./profile/trophy.svg" />
 </div>
 
 ## `07 /` Contribution Snake
@@ -215,6 +221,9 @@ NEXT CHECKPOINT: KEEP BUILDING
   </a>
   <a href="https://github.com/Riquelmedkzy">
     <img alt="Acessar GitHub" src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-5B5278?style=for-the-badge&amp;labelColor=14111B&amp;logo=github&amp;logoColor=white" />
+  </a>
+  <a href="https://matheus-riquelme-web.vercel.app/">
+    <img alt="Acessar meu portfólio" src="https://img.shields.io/badge/PORTF%C3%93LIO-VISITAR%20SITE-28B485?style=for-the-badge&amp;labelColor=14111B&amp;logo=vercel&amp;logoColor=white" />
   </a>
 
   <br /><br />
